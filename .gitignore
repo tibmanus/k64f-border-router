@@ -1,4 +1,10 @@
+#yotta files
 yotta_modules/*
 yotta_targets/*
 build/*
 .yotta.json
+
+#eclipse files
+.cproject
+.project
+.settings
